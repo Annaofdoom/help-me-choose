@@ -35,3 +35,18 @@ input {
 .addOption {
   margin-top: 10px;
 }
+
+.gobutton {
+  background-color: #6fa3a9;
+  border: none;
+  color: #ffdaa9;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  margin: 5px;
+}
+
+.gobutton {
+  border-radius: 12px;
+}
