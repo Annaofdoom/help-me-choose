@@ -4,18 +4,22 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 150px;
+  background-color: #60366f;
 }
 
 h1 {
-  font-weight: lighter;
+  font-family: "lato", sans-serif;
+  font-weight: bold;
   font-size: 40px;
   letter-spacing: 2px;
   margin-bottom: 0px;
+  color: #ffdaa9;
 }
 
 .inputSection {
   margin: 50px 0px 80px 0px;
-  width: 400px
+  width: 400px;
+
 }
 
 .inputs {
