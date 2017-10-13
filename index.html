@@ -32,12 +32,15 @@
           $('.resultSection').css('display', 'flex')
           $('input').each(function() {
             options.push($(this).val())
+          $("h1").text("The winner is");
           })
         var winner = options[Math.floor(Math.random() * options.length)]
         console.log(winner)
         $('.resultSection').text(winner)
         }
         $('.submit').click(submit)
+
+
       })
     </script>
   </body>
